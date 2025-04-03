@@ -13,6 +13,7 @@ Este projeto demonstra como utilizar o Azure AI Language Studio para análise de
 4. Visualize os resultados
 
 ## 📊 Resultados Exemplo
+Pra os testes desse projeto, foram utilizadas avaliações ficticias de um restaurante italiano.
 - Análise 1 - sentença positiva:
 ![image](https://github.com/user-attachments/assets/a7569acc-b023-4d72-a7c5-c46181455c61)
 ![image](https://github.com/user-attachments/assets/13b679d2-3980-4a2d-96dc-d1cd535f5e0f)
